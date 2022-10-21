@@ -31,3 +31,7 @@
     - `git branch -d my_first_branch`
 - Branch Defs:
   - `git log --oneline --graph`
+  - `git push origin main`
+- Short cuts:
+  - `git switch -c branch_defs`: create(c) and switch the branch
+  - 
