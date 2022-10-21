@@ -29,3 +29,9 @@
     - This will ensure everthing is in Sync
     - `git fetch --prune`: brings the log files/meta data from origin without & the files
     - `git branch -d my_first_branch`
+- Branch Defs:
+  - `git log --oneline --graph`
+  - `git push origin main`
+- Short cuts:
+  - `git switch -c branch_defs`: create(c) and switch the branch
+  - 
